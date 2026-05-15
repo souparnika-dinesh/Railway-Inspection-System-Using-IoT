@@ -197,6 +197,8 @@ Railway-Inspection-System-Using-IoT/
 │   └── prototype.jpg
 └── LICENSE
 
+---
+
 ## License
 This project is licensed under the MIT License.
 
