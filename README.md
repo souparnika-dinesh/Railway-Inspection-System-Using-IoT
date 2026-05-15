@@ -195,12 +195,15 @@ Railway-Inspection-System-Using-IoT/
 │   ├── system_architecture.png
 │   ├── app_interface.png
 │   └── prototype.jpg
-└── LICENSE
+└── LICENSE  
+
 
 ---
 
 ## License
 This project is licensed under the MIT License.
+
+---
 
 ## Author
 **Souparnika Dinesh**  
