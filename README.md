@@ -1,5 +1,4 @@
-# Railway-Inspection-System-Using-IoT
-# 🚆 Railway Inspection System Using IoT
+# 🚆Railway-Inspection-System-Using-IoT
 
 <p align="center">
   <img src="images/logo.png" alt="Project Logo" width="180"/>
