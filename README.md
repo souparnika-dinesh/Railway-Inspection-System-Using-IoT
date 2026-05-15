@@ -1,7 +1,7 @@
 # 🚆 Railway Inspection System Using IoT
 
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="180"/>
+  <img src="logo.png" alt="Project Logo" width="180"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Install these libraries in Arduino IDE:
 ## System Architecture
 
 <p align="center">
-  <img src="images/system_architecture.png" width="850">
+  <img src="system_architecture.png" width="850">
 </p>
 
 ---
@@ -93,7 +93,7 @@ Install these libraries in Arduino IDE:
 ## Circuit Diagram
 
 <p align="center">
-  <img src="images/circuit_diagram.png" width="900">
+  <img src="circuit_diagram.png" width="900">
 </p>
 
 ---
@@ -101,7 +101,7 @@ Install these libraries in Arduino IDE:
 ## Mobile App Interface
 
 <p align="center">
-  <img src="images/app_interface.png" width="300">
+  <img src="app_interface.png" width="300">
 </p>
 
 ---
@@ -109,7 +109,7 @@ Install these libraries in Arduino IDE:
 ## Prototype
 
 <p align="center">
-  <img src="images/prototype.jpg" width="500">
+  <img src="prototype.jpg" width="500">
 </p>
 
 ---
