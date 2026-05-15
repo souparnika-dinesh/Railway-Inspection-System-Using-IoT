@@ -1,7 +1,7 @@
 # 🚆Railway-Inspection-System-Using-IoT
 
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="180"/>
+  <img src="images/WhatsApp Image 2026-05-15 at 1.50.57 PM" alt="Project Logo" width="180"/>
 </p>
 
 <p align="center">
